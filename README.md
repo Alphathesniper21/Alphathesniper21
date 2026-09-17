@@ -10,18 +10,6 @@
 </p>
 </div>
 
-<h2>Why I build in public</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Java</code> · <code>TypeScript</code> · <code>CSS</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>7 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>42 contributions · 7 active days</p></td>
-</tr>
-</table>
-
-<p>Building in public, documenting the work, and making the next contribution easier.</p>
-
 <h2>Open-source toolbox</h2>
 
 <p><code>alphathesniper21@github ~ $ toolbox --list</code></p>
