@@ -1,7 +1,6 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=WELCOME&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=WELCOME&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=0,1,2&theme=dark" />
 </div>
-
 ###
 
 <div data-importer="techs" align="center">
