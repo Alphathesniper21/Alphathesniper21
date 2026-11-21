@@ -36,7 +36,7 @@
   <a href="https://discord.com/users/490356272873472000" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=NEED%20TO%20CONTACT%20ME%20QUICKLY?&color=7289DA&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="sebastiantoyo@gmail.com" target="_blank">
+  <a href="mailto:sebastiantoyo91@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=WANT%20TO%20WORK%20WITH%20ME?&color=D14836&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
