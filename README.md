@@ -1,7 +1,6 @@
 <div data-importer="border">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=WELCOME&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0A66FF" />
 </div>
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
